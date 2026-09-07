@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/mgowtam"><img src="https://shields.io" alt="Status"/></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/gowtam"><img src="https://shields.io" alt="LinkedIn"/></a>
 </p>
 
 ---
