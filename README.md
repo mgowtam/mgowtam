@@ -53,3 +53,21 @@ I am a startup founder and software engineer with 11+ years building large-scale
     </td>
   </tr>
 </table>
+
+---
+
+### 🧩 Featured Projects
+
+[**schema-crosswalk**](https://github.com/schema-crosswalk/schema-crosswalk) — LLM-proposed, grammar-constrained schema mapping for CSV/JSON → any target schema, with deterministic, auditable execution. No free-form codegen, no hallucinated transforms.
+
+[**gridshift-rl**](https://github.com/mgowtam/gridshift-rl) — Reinforcement learning for commercial building energy management — orchestrating EV charging, HVAC, and battery storage to minimize electricity costs, reduce peak demand, and maximize renewable utilization.
+
+<p align="left">
+  <a href="https://github.com/schema-crosswalk/schema-crosswalk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=schema-crosswalk&repo=schema-crosswalk" alt="schema-crosswalk" />
+  </a>
+  <a href="https://github.com/mgowtam/gridshift-rl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgowtam&repo=gridshift-rl" alt="gridshift-rl" />
+  </a>
+</p>
+
