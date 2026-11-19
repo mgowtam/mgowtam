@@ -2,8 +2,8 @@
 ### Startup Founder | 11+ Yrs Engineering Leader | Ex-Amazon
 
 <p align="left">
-  <a href="https://github.com/mgowtam"><img src="https://shields.io" alt="Status"/></a>
-  <a href="https://linkedin.com/in/gowtam"><img src="https://shields.io" alt="LinkedIn"/></a>
+  <a href="https://github.com/mgowtam"><img src="https://img.shields.io/github/followers/mgowtam?label=Followers&style=social" alt="Followers"/></a>
+  <a href="https://www.linkedin.com/in/gowtam"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -24,37 +24,32 @@ I am a startup founder and software engineer with 11+ years building large-scale
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Golang" />
+      <br />Golang
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br />Docker
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br />PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev" width="48" height="48" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br />AWS
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Live GitHub Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="Gowtam's GitHub Stats" height="192px" />
-  <img src="https://vercel.app" alt="Top Languages" height="192px" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
